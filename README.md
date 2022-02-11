@@ -1,4 +1,4 @@
-# Collaborative Recommender
+# Funk SVD Recommender
 Collaborative product recommender for the recommender system course at UFMG. This recommender is based on Simon Funk SVD recommender for the Netflix Prize. 
 
 # How to run
